@@ -1,4 +1,4 @@
-# include <stdio.h>
+#include <stdio.h>
 int main () {
     char name[100] , hobby[100];
     int age;
