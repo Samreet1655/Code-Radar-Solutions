@@ -1,4 +1,4 @@
-#include <stdio.h>
+# include <stdio.h>
 int main (){
     int name[100] , age[100] , hobby[100];
     scanf("%s" , "%s", &name , &age);
