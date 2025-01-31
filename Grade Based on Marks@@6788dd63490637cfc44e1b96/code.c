@@ -2,7 +2,7 @@
 int main(){
     int a;
     if(a>90){
-        printf('A');
+        printf("A");
 
     }
     else if((a>=80) && (a<90)){
