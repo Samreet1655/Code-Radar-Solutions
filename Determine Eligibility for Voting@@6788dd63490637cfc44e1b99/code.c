@@ -5,7 +5,7 @@ int main(){
     if(a>=18){
         printf("Eligible");
     }
-    else{
+    else if(a<18){
         printf("Not Eligible");
     }
 }
