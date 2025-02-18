@@ -4,7 +4,7 @@ int main(){
      char str1[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ" , str2[] = "abcdefghijklmnopqrstuvwxyz";
      scanf("%c",&a);
   
-    if (str1,a){
+    if (a,str1){
         printf("Uppercase");
     }
     else {
