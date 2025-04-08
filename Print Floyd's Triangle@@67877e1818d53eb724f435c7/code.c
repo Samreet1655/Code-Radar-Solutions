@@ -12,6 +12,6 @@ int main() {
         printf("\n");
 
     }
-    a++
+    a++;
     return 0;
 }
