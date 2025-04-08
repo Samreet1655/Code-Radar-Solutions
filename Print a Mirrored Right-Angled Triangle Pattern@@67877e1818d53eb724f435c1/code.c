@@ -7,7 +7,7 @@ int main() {
         for(int j = 1; j<=m-i ; j++){
             printf(" ");
             }
-        for(int j = 1,j>m-i; j++){
+        for(int j = 1;j>m-i; j++){
             printf("* ");
 
         }
@@ -16,5 +16,4 @@ int main() {
         }
     return 0;
 }
-    }
-}
+    
