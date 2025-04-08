@@ -5,8 +5,8 @@ int main() {
     scanf("%d", &n);
     a=1;
     for (int i = 1; i <= n; i++) {
-       
-        for(int j = i; j<=a+i; j++){
+        k=i;
+        for(int j = i; j<=a+k; j++){
             printf("%d ",j);
             a++;
         }
