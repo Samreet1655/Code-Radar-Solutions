@@ -8,7 +8,6 @@ int main() {
             while(k=m-n){
                 printf(" ");
             }
-            else{
             printf("*");
             }
         printf("\n");
