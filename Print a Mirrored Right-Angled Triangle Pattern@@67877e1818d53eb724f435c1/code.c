@@ -5,12 +5,16 @@ int main() {
     scanf("%d %d", &n,&m);
     for (int i = 1; i <= n; i++) {
         for(int j = 1; j<=m ; j++){
-            while(k=m-n){
+            while(n>0){
+                if(j<=m-n){
                 printf(" ");
             }
+            else{
             printf("*");
             }
         printf("\n");
         }
     return 0;
+}
+    }
 }
