@@ -10,8 +10,9 @@ int main() {
             printf("%d ",a);
         }
         printf("\n");
+        a++;
 
     }
-    a++;
+    
     return 0;
 }
